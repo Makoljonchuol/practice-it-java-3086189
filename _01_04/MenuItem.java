@@ -12,5 +12,4 @@ public class MenuItem {
   public String toString() {
     return name;
   }
-
 }
